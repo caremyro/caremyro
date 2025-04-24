@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="goku-fortnite-goku.gif" style="width: 100%; height: 12vh;" alt="Goku Griddy"/>
-</div>
+<p align="center">
+  <img src="goku-fortnite-goku.gif"  width="800" height="200"/>
+</p>
 
 ## Contact
 
